@@ -2,6 +2,10 @@
 
 Un parcours documentaire en français présente les DeFi Smart Accounts, les connecteurs, l’exécution composée, les permissions et les points de vérification. Voir [docs/fr/](docs/fr/) pour le sommaire.
 
+## Parcours français
+
+Un parcours documentaire en français présente les DeFi Smart Accounts, les connecteurs, l’exécution composée, les permissions et les points de vérification. Voir [docs/fr/](docs/fr/) pour le sommaire.
+
 
 # DeFi Smart Accounts
 
